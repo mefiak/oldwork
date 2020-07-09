@@ -1248,6 +1248,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'Adobe Garamond Pro', sans-serif;
+  font-weight:400;
+  font-style:normal;
   font-size:40px;
 }
 #u136 {
@@ -1258,6 +1261,9 @@
   width:281px;
   height:42px;
   display:flex;
+  font-family:'Adobe Garamond Pro', sans-serif;
+  font-weight:400;
+  font-style:normal;
   font-size:40px;
 }
 #u136 .text {

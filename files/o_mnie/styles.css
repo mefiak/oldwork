@@ -1754,7 +1754,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:353px;
+  width:447px;
   height:42px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1764,16 +1764,18 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-size:40px;
+  text-align:center;
 }
 #u77 {
   border-width:0px;
   position:absolute;
-  left:308px;
+  left:262px;
   top:93px;
-  width:353px;
+  width:447px;
   height:42px;
   display:flex;
   font-size:40px;
+  text-align:center;
 }
 #u77 .text {
   position:absolute;
@@ -1798,7 +1800,7 @@
 #u78 {
   border-width:0px;
   position:absolute;
-  left:661px;
+  left:709px;
   top:90px;
   width:53px;
   height:53px;
