@@ -124,7 +124,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Adobe Garamond Pro Bold', 'Adobe Garamond Pro Regular', 'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -137,7 +137,7 @@
   width:243px;
   height:199px;
   display:flex;
-  font-family:'Adobe Garamond Pro Bold', 'Adobe Garamond Pro Regular', 'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:700;
   font-style:normal;
   font-size:20px;

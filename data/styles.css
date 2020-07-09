@@ -15,7 +15,7 @@
 .image {
 }
 .heading_1 {
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
   font-size:32px;
@@ -56,13 +56,13 @@
   text-align:left;
 }
 .paragraph {
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
   text-align:left;
 }
 .text_link {
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
   font-size:30px;
@@ -82,14 +82,14 @@
 .line {
 }
 .menu {
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
   font-size:35px;
   text-align:left;
 }
 .repeater_lista_portfolio {
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
   font-size:32px;
@@ -105,7 +105,7 @@
   line-height:normal;
 }
 .headery_cv {
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
   font-size:30px;
@@ -113,7 +113,7 @@
   text-align:left;
 }
 .text_cv {
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -123,7 +123,7 @@
 .icon {
 }
 .header_bez_cieni {
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
   font-size:40px;

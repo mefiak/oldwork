@@ -96,7 +96,7 @@
   -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
   color:#0000FF;
@@ -109,7 +109,7 @@
   width:253px;
   height:40px;
   display:flex;
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
   color:#0000FF;
@@ -284,7 +284,7 @@
   width:593px;
   height:35px;
   display:flex;
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
 }
@@ -486,7 +486,7 @@
   width:602px;
   height:153px;
   display:flex;
-  font-family:'Adobe Garamond Pro Bold', 'Adobe Garamond Pro Regular', 'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:700;
   font-style:normal;
 }
@@ -518,7 +518,7 @@
   width:593px;
   height:268px;
   display:flex;
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
 }
@@ -580,7 +580,7 @@
   width:593px;
   height:35px;
   display:flex;
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
   color:#37B5A7;
@@ -790,7 +790,7 @@
   width:593px;
   height:35px;
   display:flex;
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
 }
@@ -1016,7 +1016,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
 }
@@ -1029,7 +1029,7 @@
   height:42px;
   display:flex;
   opacity:0.6;
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
 }
@@ -1054,7 +1054,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
 }
@@ -1075,7 +1075,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Adobe Garamond Pro', sans-serif;
+  font-family:'Adobe Garamond Pro';
   font-weight:400;
   font-style:normal;
 }
