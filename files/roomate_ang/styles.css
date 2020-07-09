@@ -1274,39 +1274,39 @@
   text-transform:none;
   visibility:hidden;
 }
+#u543_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:81px;
+  height:81px;
+}
 #u543 {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:903px;
   top:368px;
-  width:1024px;
+  width:81px;
   height:81px;
+  display:flex;
 }
-#u543_state0 {
-  border-width:0px;
+#u543 .text {
   position:absolute;
-  left:0px;
-  top:0px;
-  width:1024px;
-  height:81px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
-  background-image:none;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
 }
-#u543_state0_content {
+#u543_img.mouseOver {
+}
+#u543.mouseOver {
+}
+#u543_text {
   border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1px;
-  height:1px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }
 #u544_img {
   border-width:0px;
@@ -1319,11 +1319,15 @@
 #u544 {
   border-width:0px;
   position:absolute;
-  left:903px;
-  top:0px;
+  left:40px;
+  top:368px;
   width:81px;
   height:81px;
   display:flex;
+  -webkit-transform:rotate(180deg);
+  -moz-transform:rotate(180deg);
+  -ms-transform:rotate(180deg);
+  transform:rotate(180deg);
 }
 #u544 .text {
   position:absolute;
@@ -1337,44 +1341,6 @@
 #u544.mouseOver {
 }
 #u544_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u545_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:81px;
-  height:81px;
-}
-#u545 {
-  border-width:0px;
-  position:absolute;
-  left:40px;
-  top:0px;
-  width:81px;
-  height:81px;
-  display:flex;
-  -webkit-transform:rotate(180deg);
-  -moz-transform:rotate(180deg);
-  -ms-transform:rotate(180deg);
-  transform:rotate(180deg);
-}
-#u545 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u545_img.mouseOver {
-}
-#u545.mouseOver {
-}
-#u545_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
