@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
+  font-family: adobe-garamond-pro, serif;
   font-weight: 400;
-  src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url('previewfonts/SourceSansPro-Regular.woff2') format('woff2'), url('previewfonts/SourceSansPro-Regular.woff') format('woff');
+  font-style: normal;
+  src: local('Adobe Garamond Pro'), local('Adobe-Garamond-Pro-Regular'), url('Adobe-Garamond-Pro-Regular.ttf') format('ttf'), url('previewfonts/Adobe-Garamond-Pro-Regular.ttf') format('ttf');
 }
 @font-face {
-  font-family: 'Source Sans Pro Semibold';
+  font-family: adobe-garamond-pro, serif;
+  font-weight: 600;
   font-style: normal;
-  font-weight: 400;
-  src: local('Source Sans Pro Semibold'), local('SourceSansPro-Semibold'), url('previewfonts/SourceSansPro-Semibold.woff2') format('woff2'), url('previewfonts/SourceSansPro-Semibold.woff') format('woff');
+  src: local('Adobe Garamond Pro Semibold'), local('Adobe-Garamond-Pro-Semibold'), url('previewfonts/Adobe-Garamond-Pro-Semibold.otf') format('otf'), url('previewfonts/Adobe-Garamond-Pro-Semibold.otf') format('otf');
 }

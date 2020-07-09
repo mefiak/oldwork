@@ -1,7 +1,0 @@
-﻿$axure.loadCurrentPage(
-(function() {
-    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
-    var _creator = function() { return _(b,c,d,e,f,_(g,h,i,_(j,k,l,m)),n,[],o,_(h,p),q,[r],s,_(t,u,v,w,g,x,y,_(),z,_(A,B,C,D,E,_(F,G,H,I),J,null,K,L,L,M,N,O,null,P,Q,R,S,T,U,V,Q,W,X,_(F,G,H,Y),Z,Q,ba,bb,_(bc,bd,be,bf,bg,bf,bh,bf,H,_(bi,bj,bk,bj,bl,bj,bm,bn)),i,_(j,k,l,m)),bo,_(),bp,_(),bq,_(br,[])),bs,_(),bt,_());}; 
-var b="url",c="contact.html",d="generationDate",e=new Date(1594126582829.45),f="defaultAdaptiveView",g="name",h="",i="size",j="width",k=1024,l="height",m=0,n="adaptiveViews",o="sketchKeys",p="s0",q="variables",r="OnLoadVariable",s="page",t="packageId",u="9f799fb4945a42ef9126286c577c4092",v="type",w="Axure:Page",x="contact",y="notes",z="style",A="baseStyle",B="627587b6038d43cca051c114ac41ad32",C="pageAlignment",D="center",E="fill",F="fillType",G="solid",H="color",I=0xFFFFFFFF,J="image",K="imageAlignment",L="near",M="imageRepeat",N="auto",O="favicon",P="sketchFactor",Q="0",R="colorStyle",S="appliedColor",T="fontName",U="Applied Font",V="borderWidth",W="borderVisibility",X="borderFill",Y=0xFF797979,Z="cornerRadius",ba="cornerVisibility",bb="outerShadow",bc="on",bd=false,be="offsetX",bf=5,bg="offsetY",bh="blurRadius",bi="r",bj=0,bk="g",bl="b",bm="a",bn=0.349019607843137,bo="adaptiveStyles",bp="interactionMap",bq="diagram",br="objects",bs="masters",bt="objectPaths";
-return _creator();
-})());
